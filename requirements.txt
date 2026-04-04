@@ -18,3 +18,7 @@ huggingface-hub
 
 # Environment Variable Management
 python-dotenv
+
+# Python
+torch
+pydantic
