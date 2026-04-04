@@ -1,0 +1,20 @@
+# LangGraph
+langgraph
+
+# LangChain
+langchain
+langchain-core
+langchain_community
+langchain_experimental
+langchain-chroma
+
+# Groq Integration
+langchain_groq
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
