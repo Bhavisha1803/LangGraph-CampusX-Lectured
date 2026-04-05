@@ -1,5 +1,7 @@
 # LangGraph
 langgraph
+langgraph-checkpoint-sqlite
+
 
 # LangChain
 langchain
